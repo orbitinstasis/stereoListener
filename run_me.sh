@@ -16,9 +16,10 @@ fi
 
 printf "\nDistro should be up-to-date."
 
-rm -rf ~/stereoListener/del
 mkdir -p ~/stereoListener
+rm -rf ~/stereoListener/del
 mkdir -p ~/stereoListener/del
+mkdir -p ~/stereoListener/src
 mkdir -p ~/stereoListener/backup
 mkdir -p ~/stereoListener/bin
 
