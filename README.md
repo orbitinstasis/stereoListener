@@ -3,7 +3,7 @@
 
 ## TODO List:
 - [ ] Auto setup for pi 1 
-- [ ] Auto setup for pi 1 and pi 2. 
+- [ ] auto remove any existing script in rc.local
 
 To setup:
 ```
