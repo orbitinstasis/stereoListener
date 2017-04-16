@@ -1,6 +1,8 @@
 ## Stereo Listener
 >Here's a script that'll get you up and running with my Stereo Listener.   
 
+--- insmod the simple-card module first! 
+
 ## TODO List:
 - [ ] Grab the simple-card.c file from the ~linux folder 
 - [ ] Auto setup for pi 1 
