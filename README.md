@@ -1,4 +1,9 @@
 ## Stereo Listener
+
+![alt text](https://github.com/orbitinstasis/stereoListener/blob/master/images/PXL_20220517_163432905.jpg?raw=true)
+![alt text](https://github.com/orbitinstasis/stereoListener/blob/master/images/PXL_20220517_163422301.jpg?raw=true)
+![alt text](https://github.com/orbitinstasis/stereoListener/blob/master/images/PXL_20220517_163408576.jpg?raw=true)
+
 >Here's a script that'll get you up and running with my Stereo Listener.   
 
 --- insmod the simple-card module first! 
