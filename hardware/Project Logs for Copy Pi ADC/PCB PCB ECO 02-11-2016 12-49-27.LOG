@@ -1,0 +1,8 @@
+Added Component: Designator=S2(Switch DPDT MCS221N-2017)
+Added Pin To Net: NetName=LINEIN_L Pin=S2-1
+Added Pin To Net: NetName=MIC_A Pin=S2-2
+Added Pin To Net: NetName=LINEIN_L Pin=S2-3
+Added Pin To Net: NetName=MIC_A Pin=S2-4
+Added Pin To Net: NetName=AUDIOIN_L Pin=S2-C1
+Added Pin To Net: NetName=AUDIOIN_R Pin=S2-C2
+Added Member To Class: ClassName=Schematic Member=Component S2 Audio Source Selector

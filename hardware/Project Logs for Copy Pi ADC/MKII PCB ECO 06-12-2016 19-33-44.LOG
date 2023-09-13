@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VINL_B Pin=L TP-P$1
+Removed Pin From Net: NetName=VINR_B Pin=R TP-P$1
+Removed Member From Class: ClassName=Schematic Member=L TP
+Removed Member From Class: ClassName=Schematic Member=R TP

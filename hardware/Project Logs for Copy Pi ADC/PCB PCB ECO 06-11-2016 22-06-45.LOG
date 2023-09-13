@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MAX_IN- Pin=U1-3
+Change Component Comment : Designator=C5 Old Comment=0.01uF Film New Comment=0.01uF

@@ -1,0 +1,6 @@
+Added Component: Designator=3V3(PAD.03X.04)
+Added Component: Designator=5V(PAD.03X.04)
+Added Pin To Net: NetName=3.3V Pin=3V3-P$1
+Added Pin To Net: NetName=5V Pin=5V-P$1
+Added Member To Class: ClassName=Schematic Member=Component 3V3 
+Added Member To Class: ClassName=Schematic Member=Component 5V 

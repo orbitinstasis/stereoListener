@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=PiPwr Old DesignItemId=0OHM-1/10W-5%(0603) New DesignItemId=JUMPER-PAD-2-NC_BY_TRACE
+Change Component Footprint: Designator=PiPwr Old Footprint=0603 New Footprint=PAD-JUMPER-2-NC_BY_TRACE_YES_SILK

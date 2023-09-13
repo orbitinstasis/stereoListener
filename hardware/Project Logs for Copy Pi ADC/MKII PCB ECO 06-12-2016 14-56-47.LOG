@@ -1,0 +1,121 @@
+Change Component DesignItemId : Designator=DGND - VinGnd TIE Old DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK New DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK
+Change Component DesignItemId : Designator=Pi Old DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK New DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK
+Change Component DesignItemId : Designator=Vin - A GND TIE Old DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK New DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK
+Change Component DesignItemId : Designator=BPAS Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=FMT0 Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=FMT1 Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=MD0 Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=MD1 Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=OSR Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=REG - BYP Old DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component DesignItemId : Designator=L TP Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT3X5
+Change Component DesignItemId : Designator=R TP Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT3X5
+Change Component DesignItemId : Designator=3V3 Old DesignItemId=TEST-POINT3X4 New DesignItemId=TEST-POINT3X5
+Change Component DesignItemId : Designator=5V Old DesignItemId=TEST-POINT3X4 New DesignItemId=TEST-POINT3X5
+Change Component DesignItemId : Designator=GND Old DesignItemId=TEST-POINT3X4 New DesignItemId=TEST-POINT3X5
+Change Component DesignItemId : Designator=Vin Old DesignItemId=TEST-POINT3X4 New DesignItemId=TEST-POINT3X5
+Change Component Footprint: Designator=REG - BYP Old Footprint=3 pad jumper 2 of 3 connected no silk screen New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=DGND - VinGnd TIE Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=Pi Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=Vin - A GND TIE Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=BPAS Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=FMT0 Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=FMT1 Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=MD0 Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=MD1 Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=OSR Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Footprint: Designator=L TP Old Footprint=PAD.03X.03 New Footprint=PAD.03X.05
+Change Component Footprint: Designator=R TP Old Footprint=PAD.03X.03 New Footprint=PAD.03X.05
+Change Component Footprint: Designator=3V3 Old Footprint=PAD.03X.04 New Footprint=PAD.03X.05
+Change Component Footprint: Designator=5V Old Footprint=PAD.03X.04 New Footprint=PAD.03X.05
+Change Component Footprint: Designator=GND Old Footprint=PAD.03X.04 New Footprint=PAD.03X.05
+Change Component Footprint: Designator=Vin Old Footprint=PAD.03X.04 New Footprint=PAD.03X.05
+Change Component Comment : Designator=DGND - VinGnd TIE Old Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK New Comment=
+Change Component Comment : Designator=Pi Old Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK New Comment=
+Change Component Comment : Designator=Vin - A GND TIE Old Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK New Comment=
+Change Component Comment : Designator=REG - BYP Old Comment=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL New Comment=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component Comment : Designator=L TP Old Comment=TEST-POINT3 New Comment=
+Change Component Comment : Designator=R TP Old Comment=TEST-POINT3 New Comment=
+Change Component Kind : Designator=Vin - A GND TIE Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=REG - BYP Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=Pi Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=OSR Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=MD1 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=MD0 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=FMT1 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=FMT0 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=DGND - VinGnd TIE Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=BPAS Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=Thief1(SOP Solder Thief)
+Added Member To Class: ClassName=Schematic Member=Component 3V3 
+Added Member To Class: ClassName=Schematic Member=Component 5V 
+Added Member To Class: ClassName=Schematic Member=Component C1 10uF
+Added Member To Class: ClassName=Schematic Member=Component C2 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C3 10uF
+Added Member To Class: ClassName=Schematic Member=Component C4 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component C5 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C6 10uF
+Added Member To Class: ClassName=Schematic Member=Component C7 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C8 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component C9 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component C10 10uF
+Added Member To Class: ClassName=Schematic Member=Component C11 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C12 1uF
+Added Member To Class: ClassName=Schematic Member=Component C13 100pF
+Added Member To Class: ClassName=Schematic Member=Component C14 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component C15 10uF
+Added Member To Class: ClassName=Schematic Member=Component C16 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C17 10uF
+Added Member To Class: ClassName=Schematic Member=Component C18 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C19 1uF
+Added Member To Class: ClassName=Schematic Member=Component C20 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C21 1uF electro
+Added Member To Class: ClassName=Schematic Member=Component C22 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component C23 1uF electro
+Added Member To Class: ClassName=Schematic Member=Component C24 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component C25 10uF
+Added Member To Class: ClassName=Schematic Member=Component C26 1uF
+Added Member To Class: ClassName=Schematic Member=Component C27 1uF
+Added Member To Class: ClassName=Schematic Member=Component C28 1uF
+Added Member To Class: ClassName=Schematic Member=Component C29 1uF
+Added Member To Class: ClassName=Schematic Member=Component C30 1uF
+Added Member To Class: ClassName=Schematic Member=Component C31 1uF
+Added Member To Class: ClassName=Schematic Member=Component DGND - VinGnd TIE 
+Added Member To Class: ClassName=Schematic Member=Component GND 
+Added Member To Class: ClassName=Schematic Member=Component IC1 Generic op-amp footprint
+Added Member To Class: ClassName=Schematic Member=Component J1 PIZERO_THROUGH_HOLE
+Added Member To Class: ClassName=Schematic Member=Component L1 
+Added Member To Class: ClassName=Schematic Member=Component LINE IN Line In Stereo jack
+Added Member To Class: ClassName=Schematic Member=Component LRCK   BCK   DATA Header 3Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-00116), right angle break away headers (PRT-00553), swiss pins (PRT-00743), machine pins (PRT-00117), and female headers (PRT-00115). Molex polarized connector foot print use with SKU : PRT-08232 with associated crimp pins and housings.
+Added Member To Class: ClassName=Schematic Member=Component L TP 
+Added Member To Class: ClassName=Schematic Member=Component MCLK 
+Added Member To Class: ClassName=Schematic Member=Component MIC Mic Jack
+Added Member To Class: ClassName=Schematic Member=Component Pi 
+Added Member To Class: ClassName=Schematic Member=Component R1 2K
+Added Member To Class: ClassName=Schematic Member=Component R2 2K
+Added Member To Class: ClassName=Schematic Member=Component R3 1M
+Added Member To Class: ClassName=Schematic Member=Component R4 1M
+Added Member To Class: ClassName=Schematic Member=Component R5 10K
+Added Member To Class: ClassName=Schematic Member=Component R6 100K
+Added Member To Class: ClassName=Schematic Member=Component R7 100r
+Added Member To Class: ClassName=Schematic Member=Component R8 1M
+Added Member To Class: ClassName=Schematic Member=Component R9 10K
+Added Member To Class: ClassName=Schematic Member=Component R10 100r
+Added Member To Class: ClassName=Schematic Member=Component R11 10K
+Added Member To Class: ClassName=Schematic Member=Component R12 1M
+Added Member To Class: ClassName=Schematic Member=Component R13 1M
+Added Member To Class: ClassName=Schematic Member=Component R14 10K
+Added Member To Class: ClassName=Schematic Member=Component R15 10K
+Added Member To Class: ClassName=Schematic Member=Component R16 1M
+Added Member To Class: ClassName=Schematic Member=Component REG - BYP JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Added Member To Class: ClassName=Schematic Member=Component Rf1 10K
+Added Member To Class: ClassName=Schematic Member=Component Rf2 10K
+Added Member To Class: ClassName=Schematic Member=Component R TP 
+Added Member To Class: ClassName=Schematic Member=Component Thief1 Solder Thief
+Added Member To Class: ClassName=Schematic Member=Component U1 Optional 4.75V Reg
+Added Member To Class: ClassName=Schematic Member=Component U2 3.3V Regulator
+Added Member To Class: ClassName=Schematic Member=Component U3 MAX4466
+Added Member To Class: ClassName=Schematic Member=Component U4 PCM1803a
+Added Member To Class: ClassName=Schematic Member=Component U5 24.576MHz OSCILLATOR
+Added Member To Class: ClassName=Schematic Member=Component Vin - A GND TIE 
+Added Member To Class: ClassName=Schematic Member=Component Vin 

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VINL_B Pin=R7-1
+Removed Pin From Net: NetName=NetC21_+ Pin=R7-2
+Removed Pin From Net: NetName=VINR_B Pin=R10-1
+Removed Pin From Net: NetName=NetC23_+ Pin=R10-2
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RESISTOR0805-RES New DesignItemId=RESISTOR0603
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RESISTOR0805-RES New DesignItemId=RESISTOR0603
+Added Pin To Net: NetName=NetC21_+ Pin=R7-1
+Added Pin To Net: NetName=VINL_B Pin=R7-2
+Added Pin To Net: NetName=NetC23_+ Pin=R10-1
+Added Pin To Net: NetName=VINR_B Pin=R10-2

@@ -1,0 +1,8 @@
+Change Component Comment : Designator=Mic LR Selector Old Comment=Cut to seperate mic tips New Comment=Mic LR Selector
+Change Component Comment : Designator=REG - BYP Old Comment=JUMPER-PAD-3-2OF3_NC_BY_PASTE New Comment=REG - BYP
+Change Component Designator: OldDesignator=Mic LR Selector NewDesignator=J4
+Change Component Designator: OldDesignator=Pi3V3 NewDesignator=J3
+Change Component Designator: OldDesignator=REG - BYP NewDesignator=J2
+Change Net Name : Old Net Name=NetMIC_RING New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetMIC_TIP New Net Name=NetJ4_1
+Added Member To Class: ClassName=Schematic Member=Component J4 Mic LR Selector

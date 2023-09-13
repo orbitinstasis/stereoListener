@@ -1,0 +1,6 @@
+Added Component: Designator=L TP(PAD.03X.03)
+Added Component: Designator=R TP(PAD.03X.03)
+Added Pin To Net: NetName=VINL_B Pin=L TP-P$1
+Added Pin To Net: NetName=VINR_B Pin=R TP-P$1
+Added Member To Class: ClassName=Schematic Member=Component L TP TEST-POINT3
+Added Member To Class: ClassName=Schematic Member=Component R TP TEST-POINT3

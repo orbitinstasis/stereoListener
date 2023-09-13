@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AGND Pin=C9-1
+Removed Pin From Net: NetName=AGND Pin=JP1-2
+Removed Pin From Net: NetName=AGND Pin=R2-2
+Added Pin To Net: NetName=MIC_A Pin=C9-1
+Added Pin To Net: NetName=MIC_A Pin=JP1-2
+Added Pin To Net: NetName=MIC_A Pin=R2-2
+Added Net: Name=MIC_A

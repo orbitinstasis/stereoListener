@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=MIC Old DesignItemId=AUDIO-JACK2PTH New DesignItemId=AUDIO-JACK2SMD
+Change Component Footprint: Designator=MIC Old Footprint=AUDIO-JACK New Footprint=AUDIO-JACK-3.5MM-SMD
+Change Component Comment : Designator=MIC Old Comment=Mic Jack New Comment=Stereo audio jack with bypass switches. SMT version used on LilyPad MP3 board.

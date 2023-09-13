@@ -1,0 +1,15 @@
+Remove Pin=P1-1 From Net=AUDIOIN_R
+Remove Pin=P1-2 From Net=AUDIOIN_L
+Remove Pin=P2-1 From Net=LRCK
+Remove Pin=P2-2 From Net=BCK
+Remove Pin=P2-3 From Net=DOUT
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP15

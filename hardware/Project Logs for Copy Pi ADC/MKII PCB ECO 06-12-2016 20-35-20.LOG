@@ -1,0 +1,2 @@
+Change Component Kind : Designator=Vin - A GND TIE Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=DGND - VinGnd TIE Old Kind=Standard New Kind=Net Tie

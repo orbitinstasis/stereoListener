@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DGND Pin=BPAS-P$1
+Change Component DesignItemId : Designator=BPAS Old DesignItemId=TEST-POINT3 New DesignItemId=JUMPER-PAD-2-NOROUND
+Change Component Footprint: Designator=BPAS Old Footprint=PAD.03X.03 New Footprint=PAD-JUMPER-2-NO_YES_SILK_ROUND
+Change Component Comment : Designator=BPAS Old Comment= New Comment=JUMPER-PAD-2-NOROUND

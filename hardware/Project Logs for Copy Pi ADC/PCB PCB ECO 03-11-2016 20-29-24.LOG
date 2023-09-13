@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=GND TIE Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_YES_SILK
+Added Component: Designator=J2(USB-MINIB)
+Added Pin To Net: NetName=AGND Pin=J2-GND
+Added Pin To Net: NetName=V_IN Pin=J2-VBUS
+Added Member To Class: ClassName=Schematic Member=Component J2 Optional USB Power

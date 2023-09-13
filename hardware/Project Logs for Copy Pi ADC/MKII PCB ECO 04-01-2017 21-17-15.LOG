@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DAUGHTER RIGHT Pin=S1-1
+Removed Pin From Net: NetName=MAX_OUT Pin=S1-3
+Removed Pin From Net: NetName=DAUGHTER LEFT Pin=S1-4
+Removed Pin From Net: NetName=MAX_OUT Pin=S1-6
+Added Pin To Net: NetName=MAX_OUT Pin=S1-1
+Added Pin To Net: NetName=DAUGHTER RIGHT Pin=S1-3
+Added Pin To Net: NetName=MAX_OUT Pin=S1-4
+Added Pin To Net: NetName=DAUGHTER LEFT Pin=S1-6

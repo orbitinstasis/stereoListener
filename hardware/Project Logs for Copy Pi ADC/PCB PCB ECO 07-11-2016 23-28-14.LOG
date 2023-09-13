@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=BPAS1 NewDesignator=BPAS
+Change Component Designator: OldDesignator=FMT2 NewDesignator=FMT0
+Change Component Designator: OldDesignator=MD2 NewDesignator=MD0
+Change Component Designator: OldDesignator=OSR1 NewDesignator=OSR

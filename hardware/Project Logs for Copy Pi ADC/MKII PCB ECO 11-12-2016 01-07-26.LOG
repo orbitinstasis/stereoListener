@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=JP13-1
+Removed Pin From Net: NetName=MICGND Pin=JP13-2
+Removed Pin From Net: NetName=AGND Pin=JP14-1
+Removed Pin From Net: NetName=MICGND Pin=JP14-2
+Removed Member From Class: ClassName=Schematic Member=JP13
+Removed Member From Class: ClassName=Schematic Member=JP14

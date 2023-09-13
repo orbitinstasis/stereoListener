@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VINL_B Pin=R7-P$1
+Added Pin To Net: NetName=VINR_B Pin=R9-P$1
+Added Pin To Net: NetName=NetC15_+ Pin=R7-P$2
+Added Net: Name=NetC15_+
+Added Pin To Net: NetName=NetC17_+ Pin=R9-P$2
+Added Net: Name=NetC17_+

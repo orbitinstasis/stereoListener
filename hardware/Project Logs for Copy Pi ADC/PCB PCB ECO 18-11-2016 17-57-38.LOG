@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=LRCK   BCK   DATA Old DesignItemId=Header 3 New DesignItemId=M03LOCK
+Change Component Footprint: Designator=LRCK   BCK   DATA Old Footprint=1X03 New Footprint=1X03_LOCK

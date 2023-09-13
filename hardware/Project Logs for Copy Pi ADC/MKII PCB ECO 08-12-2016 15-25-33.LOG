@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MIC_A Pin=MIC-RING
+Removed Pin From Net: NetName=AGND Pin=MIC-SLEEVE
+Added Component: Designator=Mic tip TIE(PAD-JUMPER-2-NC_BY_TRACE_NO_SILK)
+Added Pin To Net: NetName=MIC_A Pin=Mic tip TIE-2
+Added Pin To Net: NetName=NetMIC_RING Pin=MIC-RING
+Added Pin To Net: NetName=NetMIC_RING Pin=Mic tip TIE-1
+Added Net: Name=NetMIC_RING
+Added Member To Class: ClassName=Schematic Member=Component Mic tip TIE Cut to seperate mic tips 

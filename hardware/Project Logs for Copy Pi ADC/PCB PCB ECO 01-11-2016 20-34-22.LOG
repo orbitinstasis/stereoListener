@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=V_IN Pin=TP13-P$1
+Removed Member From Class: ClassName=Schematic Member=TP10
+Change Component Designator: OldDesignator=TP6 NewDesignator=SCK
+Change Component Designator: OldDesignator=TP7 NewDesignator=BPAS
+Change Component Designator: OldDesignator=TP8 NewDesignator=MD1
+Change Component Designator: OldDesignator=TP9 NewDesignator=MD0
+Change Component Designator: OldDesignator=TP10 NewDesignator=FMT1
+Change Component Designator: OldDesignator=TP11 NewDesignator=FMT0
+Change Component Designator: OldDesignator=TP12 NewDesignator=OSR
+Change Component Designator: OldDesignator=TP13 NewDesignator=in
+Change Component Designator: OldDesignator=TP14 NewDesignator=5V
+Change Component Designator: OldDesignator=TP15 NewDesignator=3.3V
+Added Member To Class: ClassName=Schematic Member=Component FMT1 

@@ -1,0 +1,8 @@
+Added Component: Designator=R7(0603-RES)
+Added Component: Designator=R10(0603-RES)
+Added Pin To Net: NetName=NetC21_+ Pin=R7-1
+Added Pin To Net: NetName=VINL_B Pin=R7-2
+Added Pin To Net: NetName=NetC23_+ Pin=R10-1
+Added Pin To Net: NetName=VINR_B Pin=R10-2
+Added Member To Class: ClassName=Schematic Member=Component R7 100r
+Added Member To Class: ClassName=Schematic Member=Component R10 100r

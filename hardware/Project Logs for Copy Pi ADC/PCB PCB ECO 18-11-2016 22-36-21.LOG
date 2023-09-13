@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=LRCK   BCK   DATA Old DesignItemId=M03LOCK New DesignItemId=M03PTH
+Change Component Footprint: Designator=LRCK   BCK   DATA Old Footprint=1X03_LOCK New Footprint=1X03
+Change Component Comment : Designator=LRCK   BCK   DATA Old Comment=I2S TP New Comment=Header 3Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-00116), right angle break away headers (PRT-00553), swiss pins (PRT-00743), machine pins (PRT-00117), and female headers (PRT-00115). Molex polarized connector foot print use with SKU : PRT-08232 with associated crimp pins and housings.

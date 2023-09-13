@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=REG Old DesignItemId=JUMPER-PAD-3-NC_BY_PASTE New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL
+Change Component Footprint: Designator=REG Old Footprint=PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX
+Change Component Comment : Designator=REG Old Comment= New Comment=JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL

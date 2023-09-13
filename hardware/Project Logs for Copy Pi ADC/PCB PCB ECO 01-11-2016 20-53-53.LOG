@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=L/R TP
+Change Component Designator: OldDesignator=P2 NewDesignator=I2S D/B/L
+Change Component Designator: OldDesignator=RESET NewDesignator=S1
+Added Member To Class: ClassName=Schematic Member=Component BPAS 
+Added Member To Class: ClassName=Schematic Member=Component FMT0 
+Added Member To Class: ClassName=Schematic Member=Component FMT1 
+Added Member To Class: ClassName=Schematic Member=Component MD0 
+Added Member To Class: ClassName=Schematic Member=Component MD1 
+Added Member To Class: ClassName=Schematic Member=Component OSR 
+Added Member To Class: ClassName=Schematic Member=Component SCK 

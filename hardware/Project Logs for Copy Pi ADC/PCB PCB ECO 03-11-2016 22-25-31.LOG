@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=V_IN Pin=J1-4
+Added Pin To Net: NetName=PIPWR Pin=J1-4

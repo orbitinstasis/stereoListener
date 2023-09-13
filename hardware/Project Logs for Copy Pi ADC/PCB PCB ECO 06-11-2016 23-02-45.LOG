@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=1 NewDesignator=5V
+Change Component Designator: OldDesignator=2 NewDesignator=3V3
+Change Component Designator: OldDesignator=DGND - VinGnd TIE1 NewDesignator=DGND - VinGnd TIE
+Change Component Designator: OldDesignator=LRCK      BCK      DATA1 NewDesignator=LRCK      BCK      DATA
+Change Component Designator: OldDesignator=Vin1 NewDesignator=Vin
+Change Component Designator: OldDesignator=Vin - A GND TIE1 NewDesignator=Vin - A GND TIE

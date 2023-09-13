@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PDWN Pin=RST-1
+Removed Pin From Net: NetName=DGND Pin=RST-2
+Removed Member From Class: ClassName=Schematic Member=RST
+Added Component: Designator=RESET(PAD-JUMPER-2-NO_YES_SILK_ROUND)
+Added Pin To Net: NetName=PDWN Pin=RESET-1
+Added Pin To Net: NetName=DGND Pin=RESET-2
+Added Member To Class: ClassName=Schematic Member=Component RESET 

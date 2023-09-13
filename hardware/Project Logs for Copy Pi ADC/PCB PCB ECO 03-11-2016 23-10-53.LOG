@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=PiPwr Old DesignItemId=JUMPER-PAD-2-NC_BY_TRACE New DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Footprint: Designator=PiPwr Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_YES_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK
+Change Component Comment : Designator=PiPwr Old Comment=RES-08609 New Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Kind : Designator=PiPwr Old Kind=Net Tie New Kind=Standard

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MAX_OUT Pin=R6-1
+Removed Pin From Net: NetName=MAX_IN- Pin=R6-3
+Change Component Footprint: Designator=R6 Old Footprint=TRIMPOT-3MM-2 New Footprint=Trimmer
+Added Pin To Net: NetName=MAX_IN- Pin=R6-1
+Added Pin To Net: NetName=MAX_OUT Pin=R6-3

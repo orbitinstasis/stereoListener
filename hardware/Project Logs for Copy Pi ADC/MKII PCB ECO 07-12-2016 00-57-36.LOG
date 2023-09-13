@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=BPAS Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT2
+Change Component DesignItemId : Designator=FMT1 Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT2
+Change Component DesignItemId : Designator=OSR Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT2
+Change Component DesignItemId : Designator=PDWN Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT2
+Change Component Footprint: Designator=BPAS Old Footprint=PAD.03X.03 New Footprint=PAD.02X.02
+Change Component Footprint: Designator=FMT1 Old Footprint=PAD.03X.03 New Footprint=PAD.02X.02
+Change Component Footprint: Designator=OSR Old Footprint=PAD.03X.03 New Footprint=PAD.02X.02
+Change Component Footprint: Designator=PDWN Old Footprint=PAD.03X.03 New Footprint=PAD.02X.02
+Change Component Comment : Designator=BPAS Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=FMT1 Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=OSR Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=PDWN Old Comment= New Comment=Bare copper test points for troubleshooting or ICT

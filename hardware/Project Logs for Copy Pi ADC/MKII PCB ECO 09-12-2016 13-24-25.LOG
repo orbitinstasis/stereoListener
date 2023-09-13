@@ -1,0 +1,3 @@
+Change Component Kind : Designator=JMP3 Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=JMP2 Old Kind=Standard New Kind=Net Tie
+Added Member To Class: ClassName=Schematic Member=Component JMP2 Bridge and disconnect 3v3 reg for pi 3v3

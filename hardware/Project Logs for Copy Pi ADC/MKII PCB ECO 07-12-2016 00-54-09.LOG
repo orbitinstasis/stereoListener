@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=FMT0 Old DesignItemId=TEST-POINT3 New DesignItemId=TEST-POINT2
+Change Component Footprint: Designator=FMT0 Old Footprint=PAD.03X.03 New Footprint=PAD.02X.02
+Change Component Comment : Designator=FMT0 Old Comment= New Comment=Bare copper test points for troubleshooting or ICT

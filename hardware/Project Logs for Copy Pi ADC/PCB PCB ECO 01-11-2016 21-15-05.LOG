@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3.3V Pin=3.3V-P$1
+Removed Pin From Net: NetName=5V Pin=5V-P$1
+Removed Pin From Net: NetName=BPAS Pin=BPAS-P$1
+Removed Pin From Net: NetName=FMT0 Pin=FMT0-P$1
+Removed Pin From Net: NetName=FMT1 Pin=FMT1-P$1
+Removed Pin From Net: NetName=MD0 Pin=MD0-P$1
+Removed Pin From Net: NetName=MD1 Pin=MD1-P$1
+Removed Pin From Net: NetName=OSR Pin=OSR-P$1
+Removed Pin From Net: NetName=SCK Pin=SCK-P$1
+Removed Member From Class: ClassName=Schematic Member=3.3V
+Removed Member From Class: ClassName=Schematic Member=5V
+Removed Member From Class: ClassName=Schematic Member=SCK

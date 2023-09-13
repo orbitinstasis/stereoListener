@@ -1,0 +1,12 @@
+Added Component: Designator=JP13(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP14(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP15(PAD-JUMPER-2-NO_NO_SILK)
+Added Pin To Net: NetName=AGND Pin=JP13-1
+Added Pin To Net: NetName=MICGND Pin=JP13-2
+Added Pin To Net: NetName=AGND Pin=JP14-1
+Added Pin To Net: NetName=MICGND Pin=JP14-2
+Added Pin To Net: NetName=AGND Pin=JP15-1
+Added Pin To Net: NetName=MICGND Pin=JP15-2
+Added Member To Class: ClassName=Schematic Member=Component JP13 JUMPER-PAD-2-NO
+Added Member To Class: ClassName=Schematic Member=Component JP14 bridge these if you don't have L3 connected (if it's 0 ohm bridge these)
+Added Member To Class: ClassName=Schematic Member=Component JP15 JUMPER-PAD-2-NO

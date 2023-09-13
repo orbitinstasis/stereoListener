@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MAX_OUT Pin=R6-3
+Removed Pin From Net: NetName=MAX_IN+ Pin=U1-1
+Removed Pin From Net: NetName=MAX_IN- Pin=U1-3
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MINI-DIN6PTH New DesignItemId=OPA344
+Change Component Comment : Designator=U1 Old Comment=MAX4466 New Comment=
+Change Component Description : Designator=U1 Old Description= New Description=Single gate rail-to-rail output op-amp. Inputs extend 300mV past rails.
+Change Component Library : Designator=U1 Old Library=SparkFun-Connectors.IntLib New Library=SparkFun-AnalogIC.IntLib
+Added Pin To Net: NetName=MAX_IN- Pin=R6-3
+Added Pin To Net: NetName=MAX_IN- Pin=U1-1
+Added Pin To Net: NetName=MAX_IN+ Pin=U1-3
+Change Net Name : Old Net Name=MAX_IN+ New Net Name=NetC5_2
+Change Net Name : Old Net Name=MAX_IN- New Net Name=NetC9_1
+Change Net Name : Old Net Name=MAX_OUT New Net Name=NetC9_2

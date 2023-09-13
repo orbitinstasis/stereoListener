@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MAX_OUT Pin=C26-1
+Removed Pin From Net: NetName=MAX_OUT Pin=C29-1
+Added Component: Designator=S1(MHS222 DPDT Side)
+Added Pin To Net: NetName=MAX_OUT Pin=S1-3
+Added Pin To Net: NetName=MAX_OUT Pin=S1-6
+Added Pin To Net: NetName=DAUGHTER LEFT Pin=B2-1
+Added Pin To Net: NetName=DAUGHTER LEFT Pin=S1-4
+Added Net: Name=DAUGHTER LEFT
+Added Pin To Net: NetName=DAUGHTER RIGHT Pin=B2-2
+Added Pin To Net: NetName=DAUGHTER RIGHT Pin=S1-1
+Added Net: Name=DAUGHTER RIGHT
+Added Pin To Net: NetName=DPDT OUT LEFT Pin=C26-1
+Added Pin To Net: NetName=DPDT OUT LEFT Pin=S1-5
+Added Net: Name=DPDT OUT LEFT
+Added Pin To Net: NetName=DPDT OUT RIGHT Pin=C29-1
+Added Pin To Net: NetName=DPDT OUT RIGHT Pin=S1-2
+Added Net: Name=DPDT OUT RIGHT
+Added Member To Class: ClassName=Schematic Member=Component S1 

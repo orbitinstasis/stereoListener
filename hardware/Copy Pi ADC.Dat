@@ -1,0 +1,36 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Picked~String~Picked~100|Field=Quantity~Integer~Quantity~100|Field=Cost~String~Cost~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Copy Pi ADC.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Copy Pi ADC\Copy Pi ADC.PrjPcb|ReportField=Title~Bill of Materials For Project [Copy Pi ADC.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~83|ReportField=ReportTime~19:43:07|ReportField=ReportDate~13/12/2016|ReportField=ReportDateTime~13/12/2016 19:43:07|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~13/12/2016|ReportField=CurrentTime~19:24:08|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\Copy Pi ADC\Schematic.SchDoc|ReportField=DocumentName~Schematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~11/12/2016|ReportField=Organization~|ReportField=ProjectName~Copy Pi ADC.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Copy Pi ADC.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Copy Pi ADC\Copy Pi ADC.PrjPcb|ReportField=PCBDataSourceFileName~MKII.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Copy Pi ADC\MKII.PcbDoc
+1|Bare copper test points for troubleshooting or ICT||3V3, 5V, AGND TP|Test Point THT|TEST-POINTTP_15TH_THRU||3|
+2|Bare copper test points for troubleshooting or ICT||BPAS, FMT0, FMT1, OSR, PDWN|PAD.02X.02|TEST-POINT2||5|
+3|10uF||C1|0603-CAP|0.1UF-25V-5%(0603)|true|1|0.023
+4|0.1uF||C2, C5, C7, C11, C16, C18, C19, C20|0603-CAP|0.1UF-25V-5%(0603)|true|8|0.023, 0.023, 0.023, 0.023, 0.023, 0.023, 0.0121, 0.023
+5|10uF|Capacitor PolarizedThese are standard SMD and PTH capacitors. Normally 10uF, 47uF, and 100uF in electrolytic and tantalum varieties. Always verify the external diameter of the through hole cap, it varies with capacity, voltage, and manufacturer. The EIA devices should be standard.|C3, C6, C10, C15, C17|EIA3216|CAP_POL1206|awaiting|5|
+6|0.01uF||C4, C8, C14|0603-CAP|0.1UF-25V-5%(0603)|true|3|0.025
+7|0.01uF Film||C9, C22, C24|C0805|CAP0805||3|
+8|4.7uF||C12|0603-CAP|0.1UF-25V-5%(0603)|true|1|0.0121
+9|68pF||C13|0603-CAP|0.1UF-25V-5%(0603)|true|1|0.05
+10|1uF electro|Capacitor PolarizedThese are standard SMD and PTH capacitors. Normally 10uF, 47uF, and 100uF in electrolytic and tantalum varieties. Always verify the external diameter of the through hole cap, it varies with capacity, voltage, and manufacturer. The EIA devices should be standard.|C21, C23|PANASONIC_B_ELECTRO|CAP_POLC|true|2|0.115
+11|1uF||C26, C27, C28, C29, C30, C31|0603-CAP|0.1UF-25V-5%(0603)|true|6|0.023
+12|Bare copper test points for troubleshooting or ICT||GND, Vin|PAD.03X.03|TEST-POINT3||2|
+13|Generic op-amp footprint||IC1|MCHP-SOIC-OA8_M|OPAMP-DUALU|false|1|0.387
+14|PIZERO_THROUGH_HOLE||J1|PIZERO_THOUGH_HOLE|PIZERO_THROUGH_HOLE||1|
+15|Bridge this and disconnect jmp2 for regulated 3v3||JP3|PAD-JUMPER-2-NO_NO_SILK|JUMPER-PAD-2-NO||1|
+16|JUMPER-PAD-2-NO||JP13, JP15|PAD-JUMPER-2-NO_NO_SILK|JUMPER-PAD-2-NO||2|
+17|bridge these if you don't have L3 connected (if it's 0 ohm bridge these)||JP14|PAD-JUMPER-2-NO_NO_SILK|JUMPER-PAD-2-NO||1|
+18||Inductors   Basic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers. INDUCTOR POWER 3.3UH 4.0A SMD 0.197" L x 0.197" W x 0.177" H (5.00mm x 5.00mm x 4.50mm)|L1, L2, L3|C0805|INDUCTOR0805|true|3|0.0832
+19|Line In Stereo jack||LINE IN|AUDIO-JACK|AUDIO-JACK2PTH|true|1|0.580
+20|Header 3Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-00116), right angle break away headers (PRT-00553), swiss pins (PRT-00743), machine pins (PRT-00117), and female headers (PRT-00115). Molex polarized connector foot print use with SKU : PRT-08232 with associated crimp pins and housings.||LRCK   BCK   DATA|1X03|M03PTH||1|
+21||TEST-POINT3X5|MCLK|PAD.03X.05|TEST-POINT3X5||1|
+22|Mic Jack||MIC|AUDIO-JACK|AUDIO-JACK2PTH|true|1|0.580
+23|1K||R1, R2, R5|0603-RES|2.0KOHM1/10W5%(0603), 2.0KOHM1/10W5%(0603), RESISTOR0603-RES||3|
+24|1M|ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.|R3, R4, R8, R12, R13, R16|0603-RES|RESISTOR0603|awaiting|6|0.064
+25|100K|Potentiometer|R6|Trimmer|RPot|awaiting|1|0.302
+26|100r|ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.|R7, R10|0603-RES|RESISTOR0603|awaiting|2|0.064
+27|10K|ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors., ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors., ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors., ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors., [NoValue], ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors., ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.|R9, R11, R14, R15, R21, Rf1, Rf2|0603-RES|RESISTOR0603, RESISTOR0603, RESISTOR0603, RESISTOR0603, RESISTOR0603-RES, RESISTOR0603, RESISTOR0603|awaiting, awaiting, awaiting, awaiting, true, false, false|7|0.064, 0.064, 0.064, 0.064, 0.02, 0.05, 0.05
+28|33R||R17, R18, R19, R20|6-0805_L|RESISTOR0805-RES||4|
+29|Solder Thief||Thief1|SOP Solder Thief|Solder Thief SOP||1|
+30|Optional 4.75V Reg|Single Output High PSRR LDO, 200 mA, Fixed 4.75 V Output, 2.7 to 5.5 V Input, 5-pin SOT-23 (DBV), -40 to 85 degC, Green (RoHS & no Sb/Br)|U1|TI-DBV5_N|TPS793475DBVR||1|
+31|3.3V Regulator||U2|TI-DBV5_N|MIC52053.3V|true|1|0.317
+32|MAX4466|Single gate rail-to-rail output op-amp. Inputs extend 300mV past rails.|U3|SC70-LT5_N|OPA344|true|1|0.412
+33|PCM1803a|24-bit ADC|U4|SSOP20|PCM1803SMD|true|1|2.04
+34|24.576MHz OSCILLATOR||U5|CRYSTAL-SMD-7.5X5.2-6PIN|OSCILLATORSMD6|true|1|1.19
+35|Optional USB Power||USB PWR|MicroUSB-HRS1|MicroUSB-HRS-ZX62-AB-5PA|true|1|0.45

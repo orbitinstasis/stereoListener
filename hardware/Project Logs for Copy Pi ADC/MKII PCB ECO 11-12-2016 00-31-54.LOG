@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=JP13 Old DesignItemId=JUMPER-PAD-2-NO New DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component DesignItemId : Designator=JP14 Old DesignItemId=JUMPER-PAD-2-NO New DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component DesignItemId : Designator=JP15 Old DesignItemId=JUMPER-PAD-2-NO New DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component DesignItemId : Designator=JP16 Old DesignItemId=JUMPER-PAD-2-NO New DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Footprint: Designator=JP13 Old Footprint=PAD-JUMPER-2-NO_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK
+Change Component Footprint: Designator=JP14 Old Footprint=PAD-JUMPER-2-NO_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK
+Change Component Footprint: Designator=JP15 Old Footprint=PAD-JUMPER-2-NO_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK
+Change Component Footprint: Designator=JP16 Old Footprint=PAD-JUMPER-2-NO_NO_SILK New Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK
+Change Component Comment : Designator=JP13 Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Comment : Designator=JP14 Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Comment : Designator=JP15 Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK
+Change Component Comment : Designator=JP16 Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACENO_SILK

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=L1-2
+Added Component: Designator=JP1(PAD-JUMPER-2-NC_BY_TRACE_NO_SILK)
+Added Pin To Net: NetName=5V Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=L1-2
+Added Net: Name=NetJP1_1
+Added Member To Class: ClassName=Schematic Member=Component JP1 Pi Pwr

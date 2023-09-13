@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MIC_A Pin=MIC-TIP
+Removed Pin From Net: NetName=MIC_A Pin=Mic tip TIE-2
+Added Pin To Net: NetName=MIC_A Pin=MIC-RING
+Added Pin To Net: NetName=MIC_A Pin=Mic tip TIE-1
+Added Pin To Net: NetName=NetMIC_TIP Pin=MIC-TIP
+Added Pin To Net: NetName=NetMIC_TIP Pin=Mic tip TIE-2
+Added Net: Name=NetMIC_TIP

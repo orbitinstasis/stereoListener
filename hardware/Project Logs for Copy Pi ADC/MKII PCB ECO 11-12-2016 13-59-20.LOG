@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=GND Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=Vin Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=3V3 Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINTTP_15TH_THRU
+Change Component DesignItemId : Designator=5V Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINTTP_15TH_THRU
+Change Component Footprint: Designator=GND Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=Vin Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=3V3 Old Footprint=PAD.03X.05 New Footprint=TP_15TH
+Change Component Footprint: Designator=5V Old Footprint=PAD.03X.05 New Footprint=TP_15TH
+Change Component Comment : Designator=3V3 Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=5V Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=GND Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Change Component Comment : Designator=Vin Old Comment= New Comment=Bare copper test points for troubleshooting or ICT
+Added Component: Designator=AGND TP(TP_15TH)
+Added Pin To Net: NetName=AGND Pin=AGND TP-P$1
+Added Member To Class: ClassName=Schematic Member=Component AGND TP Bare copper test points for troubleshooting or ICT

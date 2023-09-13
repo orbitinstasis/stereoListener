@@ -1,0 +1,4 @@
+Added Component: Designator=Vin(HDR1X2)
+Added Pin To Net: NetName=AGND Pin=Vin-1
+Added Pin To Net: NetName=V_IN Pin=Vin-2
+Added Member To Class: ClassName=Schematic Member=Component Vin 5V source

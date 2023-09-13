@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=A - D GND TIE-1
+Removed Pin From Net: NetName=DGND Pin=A - D GND TIE-2
+Change Component Designator: OldDesignator=A - D GND TIE NewDesignator=DGND - VinGnd TIE
+Added Pin To Net: NetName=DGND Pin=DGND - VinGnd TIE-1
+Added Pin To Net: NetName=VIN_GND Pin=DGND - VinGnd TIE-2

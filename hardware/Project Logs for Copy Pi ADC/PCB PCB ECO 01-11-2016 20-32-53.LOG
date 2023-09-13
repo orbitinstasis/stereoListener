@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=I2S D/B/L NewDesignator=P2
+Change Component Designator: OldDesignator=JP1 NewDesignator=MD1
+Change Component Designator: OldDesignator=JP2 NewDesignator=MD0
+Change Component Designator: OldDesignator=JP3 NewDesignator=OSR
+Change Component Designator: OldDesignator=JP4 NewDesignator=BPAS
+Change Component Designator: OldDesignator=JP5 NewDesignator=FMT1
+Change Component Designator: OldDesignator=JP6 NewDesignator=FMT0
+Change Component Designator: OldDesignator=L/R TP NewDesignator=P1

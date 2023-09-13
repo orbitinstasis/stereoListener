@@ -1,0 +1,3 @@
+Added Component: Designator=B2(1X02_LOCK)
+Added Pin To Net: NetName=VIN_GND Pin=J1-9
+Added Member To Class: ClassName=Schematic Member=Component B2 AudioHeader

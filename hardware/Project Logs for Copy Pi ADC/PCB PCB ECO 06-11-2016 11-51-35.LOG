@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=REG - BYP NewDesignator=REG
+Added Component: Designator=MCLK(PAD.03X.05)
+Added Member To Class: ClassName=Schematic Member=Component MCLK 
+Added Member To Class: ClassName=Schematic Member=Component R1 2K

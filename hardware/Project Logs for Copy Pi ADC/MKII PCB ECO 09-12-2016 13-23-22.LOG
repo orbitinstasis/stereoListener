@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=5V Pin=U2-1
+Removed Pin From Net: NetName=5V Pin=U2-3
+Change Component DesignItemId : Designator=JMP3 Old DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK New DesignItemId=JUMPER-PAD-2-NO
+Change Component Footprint: Designator=JMP3 Old Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-2-NO_NO_SILK
+Change Component Footprint: Designator=JMP1 Old Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX New Footprint=3 pad jumper by paste no silk
+Change Component Designator: OldDesignator=JMP1 NewDesignator=JMP4
+Change Component Designator: OldDesignator=JMP2 NewDesignator=JMP1
+Change Component Designator: OldDesignator=JMP3 NewDesignator=JMP2
+Change Component Kind : Designator=JMP2 Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=JMP3(PAD-JUMPER-2-NC_BY_PASTE_NO_SILK)
+Added Pin To Net: NetName=5V Pin=JMP3-2
+Change Net Name : Old Net Name=NetJMP2_1 New Net Name=NetJMP1_1
+Change Net Name : Old Net Name=NetJMP2_3 New Net Name=NetJMP1_3
+Added Pin To Net: NetName=NetJMP3_1 Pin=JMP3-1
+Added Pin To Net: NetName=NetJMP3_1 Pin=U2-1
+Added Pin To Net: NetName=NetJMP3_1 Pin=U2-3
+Added Net: Name=NetJMP3_1
+Added Member To Class: ClassName=Schematic Member=Component JMP4 REG - BYP

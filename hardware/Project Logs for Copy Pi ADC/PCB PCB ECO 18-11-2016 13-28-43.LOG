@@ -1,0 +1,6 @@
+Added Component: Designator=5V(PAD.03X.04)
+Added Component: Designator=Vin(PAD.03X.04)
+Added Pin To Net: NetName=5V Pin=5V-P$1
+Added Pin To Net: NetName=V_IN Pin=Vin-P$1
+Added Member To Class: ClassName=Schematic Member=Component 5V 
+Added Member To Class: ClassName=Schematic Member=Component Vin 

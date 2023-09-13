@@ -1,0 +1,4 @@
+Added Component: Designator=Pi(PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX)
+Added Pin To Net: NetName=PIPWR Pin=Pi-1
+Added Pin To Net: NetName=V_IN Pin=Pi-2
+Added Member To Class: ClassName=Schematic Member=Component Pi 

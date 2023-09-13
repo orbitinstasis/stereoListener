@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DGND Pin=BPAS-P$1
+Removed Pin From Net: NetName=DGND Pin=U4-8
+Added Pin To Net: NetName=AGND Pin=BPAS-P$1
+Added Pin To Net: NetName=AGND Pin=U4-8

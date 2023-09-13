@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=5V-P$1
+Change Component DesignItemId : Designator=5V Old DesignItemId=TEST-POINTTP_15TH_THRU New DesignItemId=M01SMDNS
+Change Component Footprint: Designator=5V Old Footprint=TP_15TH New Footprint=1X01NS
+Change Component Comment : Designator=5V Old Comment=Bare copper test points for troubleshooting or ICT New Comment=Header 1Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-00116), right angle break away headers (PRT-00553), swiss pins (PRT-00743), machine pins (PRT-00117), and female headers (PRT-00115). SMTSO-256-ET is a "flush mount" nut for a 4-40 screw. The older package used to be too tight, and did not allow it to sit properly thru the drill hit. The latest (0.165DIA) fits nice and snug.
+Added Pin To Net: NetName=5V Pin=5V-1

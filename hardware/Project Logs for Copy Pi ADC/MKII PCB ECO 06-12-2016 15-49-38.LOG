@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C22 Old DesignItemId=0.1UF-50V-20%(PTH)KIT-EZ New DesignItemId=CAP0805
+Change Component DesignItemId : Designator=C24 Old DesignItemId=0.1UF-50V-20%(PTH)KIT-EZ New DesignItemId=CAP0805
+Change Component Footprint: Designator=C22 Old Footprint=WIMA PCM 10 New Footprint=0805
+Change Component Footprint: Designator=C24 Old Footprint=WIMA PCM 10 New Footprint=0805

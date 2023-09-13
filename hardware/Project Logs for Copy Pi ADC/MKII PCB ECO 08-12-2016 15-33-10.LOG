@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MIC_A Pin=MIC-RING
+Removed Pin From Net: NetName=MIC_A Pin=Mic tip TIE-1
+Removed Pin From Net: NetName=NetMIC_TIP Pin=Mic tip TIE-2
+Change Component DesignItemId : Designator=Mic tip TIE Old DesignItemId=JUMPER-PAD-2-NC_BY_TRACENO_SILK New DesignItemId=JUMPER-PAD-3-2OF3_NC_BY_PASTE
+Change Component Footprint: Designator=Mic tip TIE Old Footprint=PAD-JUMPER-2-NC_BY_TRACE_NO_SILK New Footprint=PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX
+Change Component Kind : Designator=Mic tip TIE Old Kind=Net Tie New Kind=Standard
+Added Pin To Net: NetName=AGND Pin=MIC-SLEEVE
+Added Pin To Net: NetName=NetMIC_TIP Pin=Mic tip TIE-1
+Added Pin To Net: NetName=MIC_A Pin=Mic tip TIE-2
+Added Pin To Net: NetName=NetMIC_RING Pin=MIC-RING
+Added Pin To Net: NetName=NetMIC_RING Pin=Mic tip TIE-3
+Added Net: Name=NetMIC_RING

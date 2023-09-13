@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BPAS Pin=BPAS-P$1
+Removed Pin From Net: NetName=BPAS Pin=FMT1-P$1
+Removed Pin From Net: NetName=BPAS Pin=OSR-P$1
+Removed Pin From Net: NetName=BPAS Pin=U4-16
+Removed Pin From Net: NetName=BPAS Pin=U4-18
+Change Net Name : Old Net Name=BPAS New Net Name=DGND
+Added Pin To Net: NetName=BPAS Pin=BPAS-P$1
+Added Pin To Net: NetName=BPAS Pin=FMT1-P$1
+Added Pin To Net: NetName=BPAS Pin=OSR-P$1
+Added Pin To Net: NetName=BPAS Pin=U4-8
+Added Pin To Net: NetName=BPAS Pin=U4-16
+Added Pin To Net: NetName=BPAS Pin=U4-18
+Added Net: Name=BPAS

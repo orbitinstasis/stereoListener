@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=5V-P$1
+Removed Pin From Net: NetName=AGND Pin=AGND TP-P$1
+Removed Member From Class: ClassName=Schematic Member=5V
+Removed Member From Class: ClassName=Schematic Member=AGND TP
+Change Component DesignItemId : Designator=3V3 Old DesignItemId=TEST-POINTTP_15TH_THRU New DesignItemId=TEST-POINT3
+Change Component Footprint: Designator=3V3 Old Footprint=TEST POINT THT New Footprint=PAD.03X.03
+Added Component: Designator=J2(1X02_LOCK)
+Added Pin To Net: NetName=AGND Pin=J2-1
+Added Pin To Net: NetName=5V Pin=J2-2
+Added Member To Class: ClassName=Schematic Member=Component J2 PowerHeader

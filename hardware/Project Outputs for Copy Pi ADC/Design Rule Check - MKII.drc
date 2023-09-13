@@ -1,0 +1,74 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Copy Pi ADC\MKII.PcbDoc
+Date     : 04/01/2017
+Time     : 22:33:23
+
+WARNING: 11 Net Ties failed verification
+   SMT Small Component JP10 (1677mil,895mil) on Bottom Layer, SMT Small Component JP10 (1677mil,895mil) on Bottom Layer, has isolated copper
+   SMT Small Component JP9 (1076mil,894mil) on Bottom Layer, SMT Small Component JP9 (1076mil,894mil) on Bottom Layer, has isolated copper
+   SMT Small Component JP8 (240.746mil,571.851mil) on Bottom Layer, SMT Small Component JP8 (240.746mil,571.851mil) on Bottom Layer, has isolated copper
+   SMT Small Component JP7 (1750.395mil,343.42mil) on Bottom Layer, SMT Small Component JP7 (1750.395mil,343.42mil) on Bottom Layer, has isolated copper
+   SMT Small Component JP6 (1865.233mil,725.394mil) on Bottom Layer, SMT Small Component JP6 (1865.233mil,725.394mil) on Bottom Layer, has isolated copper
+   SMT Small Component JP5 (135mil,405mil) on Bottom Layer, SMT Small Component JP5 (135mil,405mil) on Bottom Layer, has isolated copper
+   SMT Small Component MD1 (2364.173mil,783.795mil) on Top Layer, SMT Small Component MD1 (2364.173mil,783.795mil) on Top Layer, has isolated copper
+   SMT Small Component MD0 (2364.173mil,699.976mil) on Top Layer, SMT Small Component MD0 (2364.173mil,699.976mil) on Top Layer, has isolated copper
+   SMT Small Component JP2 (247.047mil,901.575mil) on Top Layer, SMT Small Component JP2 (247.047mil,901.575mil) on Top Layer, has isolated copper
+   SMT Small Component JP4-Bridge this and disconnect jmp3 for pi 3v3 (2041.339mil,166.339mil) on Top Layer, SMT Small Component JP4-Bridge this and disconnect jmp3 for pi 3v3 (2041.339mil,166.339mil) on Top Layer, has isolated copper
+   SMT Small Component JP1-Mic LR Selector (130.905mil,337.598mil) on Top Layer, SMT Small Component JP1-Mic LR Selector (130.905mil,337.598mil) on Top Layer, has isolated copper
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=3.937mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=2.756mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (Not InComponent('BPAS') and Not InComponent('FMT0') and Not InComponent('OSR') and Not InComponent('FMT1') and Not InComponent('MD0') and Not InComponent('MD1') and Not InComponent('REG - BYP')),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=196.85mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=40mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=15mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Clearance Constraint: (7.559mil < 8mil) Between Pad OSR-P$1(2179.134mil,554.134mil) on Top Layer And Pad FMT0-P$1(2179.134mil,581.693mil) on Top Layer 
+   Violation between Clearance Constraint: (7.559mil < 8mil) Between Pad FMT1-P$1(2179.134mil,609.252mil) on Top Layer And Pad FMT0-P$1(2179.134mil,581.693mil) on Top Layer 
+   Violation between Clearance Constraint: (7.721mil < 8mil) Between Via (25.591mil,578.74mil) from Top Layer to Bottom Layer And Pad USB PWR-11(54.134mil,633.858mil) on Top Layer 
+   Violation between Clearance Constraint: (7.717mil < 8mil) Between Via (25.591mil,470.472mil) from Top Layer to Bottom Layer And Pad USB PWR-9(54.134mil,523.622mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Track (25.591mil,442.351mil)(25.591mil,470.472mil) on Top Layer And Pad USB PWR-9(54.134mil,523.622mil) on Top Layer 
+   Violation between Clearance Constraint: (7.717mil < 8mil) Between Via (25.591mil,785.433mil) from Top Layer to Bottom Layer And Pad USB PWR-8(54.134mil,838.583mil) on Top Layer 
+   Violation between Clearance Constraint: (7.717mil < 8mil) Between Via (25.591mil,891.732mil) from Top Layer to Bottom Layer And Pad USB PWR-8(54.134mil,838.583mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Track (25.591mil,891.732mil)(25.591mil,928.15mil) on Top Layer And Pad USB PWR-8(54.134mil,838.583mil) on Top Layer 
+Rule Violations :8
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=600mil) (Disabled)(InNetClass('I2S'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=4mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:03

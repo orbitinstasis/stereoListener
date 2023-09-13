@@ -1,0 +1,4 @@
+Added Component: Designator=JP12(PAD-JUMPER-2-NO_NO_SILK)
+Added Pin To Net: NetName=AGND Pin=JP12-1
+Added Pin To Net: NetName=DGND Pin=JP12-2
+Added Member To Class: ClassName=Schematic Member=Component JP12 

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=5V Pin=C19-A
+Removed Pin From Net: NetName=AGND Pin=C19-C
+Removed Pin From Net: NetName=MAX_OUT Pin=R9-2
+Removed Pin From Net: NetName=AUDIOIN_L_LINE Pin=R11-2
+Removed Pin From Net: NetName=MAX_OUT Pin=R14-2
+Removed Pin From Net: NetName=AUDIOIN_R_LINE Pin=R15-2
+Change Component DesignItemId : Designator=C19 Old DesignItemId=CAP_POL1206 New DesignItemId=0.1UF-25V-5%(0603)
+Change Component Footprint: Designator=C19 Old Footprint=EIA3216 New Footprint=0603-CAP
+Change Component Comment : Designator=Rf1 Old Comment= New Comment=10K
+Change Component Comment : Designator=Rf2 Old Comment= New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=1M New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=1M New Comment=10K
+Change Component Comment : Designator=R14 Old Comment=1M New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=1M New Comment=10K
+Change Component Comment : Designator=C19 Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C1 Old Comment=10uF  New Comment=10uF
+Added Component: Designator=C26(0603-CAP)
+Added Component: Designator=C27(0603-CAP)
+Added Component: Designator=C28(0603-CAP)
+Added Component: Designator=C29(0603-CAP)
+Added Component: Designator=C30(0603-CAP)
+Added Component: Designator=C31(0603-CAP)
+Added Component: Designator=cut off f: 20 hz(0603-CAP)
+Added Pin To Net: NetName=MAX_IN+ Pin=C19-1
+Added Pin To Net: NetName=AGND Pin=C19-2
+Added Pin To Net: NetName=MAX_OUT Pin=C26-1
+Added Pin To Net: NetName=AUDIOIN_L_LINE Pin=C27-1
+Added Pin To Net: NetName=NetIC1_3 Pin=C28-1
+Added Pin To Net: NetName=AGND Pin=C28-2
+Added Pin To Net: NetName=MAX_OUT Pin=C29-1
+Added Pin To Net: NetName=AUDIOIN_R_LINE Pin=C30-1
+Added Pin To Net: NetName=NetIC1_5 Pin=C31-1
+Added Pin To Net: NetName=AGND Pin=C31-2
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetIC1_5 New Net Name=NetC31_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R9-2
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=R11-2
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=R14-2
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R15-2
+Added Net: Name=NetC30_2
+Added Member To Class: ClassName=Schematic Member=Component C26 1uF
+Added Member To Class: ClassName=Schematic Member=Component C27 1uF
+Added Member To Class: ClassName=Schematic Member=Component C28 1uF
+Added Member To Class: ClassName=Schematic Member=Component C29 1uF
+Added Member To Class: ClassName=Schematic Member=Component C30 1uF
+Added Member To Class: ClassName=Schematic Member=Component C31 1uF
+Added Member To Class: ClassName=Schematic Member=Component cut off f: 20 hz 0.1uF

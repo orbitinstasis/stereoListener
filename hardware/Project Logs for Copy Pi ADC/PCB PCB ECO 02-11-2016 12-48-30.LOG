@@ -1,0 +1,39 @@
+Added Member To Class: ClassName=Schematic Member=Component AUDIO IN Stereo jack with bypass switches. Ground when NC
+Added Member To Class: ClassName=Schematic Member=Component C1 10uF
+Added Member To Class: ClassName=Schematic Member=Component C2 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C3 10uF
+Added Member To Class: ClassName=Schematic Member=Component C4 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C5 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component C6 10uF
+Added Member To Class: ClassName=Schematic Member=Component C7 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C8 1uF
+Added Member To Class: ClassName=Schematic Member=Component C9 100pF
+Added Member To Class: ClassName=Schematic Member=Component C10 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component C11 10uF
+Added Member To Class: ClassName=Schematic Member=Component C12 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C13 10uF
+Added Member To Class: ClassName=Schematic Member=Component C14 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C15 1uF
+Added Member To Class: ClassName=Schematic Member=Component C16 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component C17 1uF
+Added Member To Class: ClassName=Schematic Member=Component C18 0.01uF Film
+Added Member To Class: ClassName=Schematic Member=Component GND TIE JUMPER-PAD-2-NC_BY_TRACE
+Added Member To Class: ClassName=Schematic Member=Component I2S D/B/L I2S TP
+Added Member To Class: ClassName=Schematic Member=Component J1 Pi Connector
+Added Member To Class: ClassName=Schematic Member=Component L1 
+Added Member To Class: ClassName=Schematic Member=Component L/R TP Audio TP
+Added Member To Class: ClassName=Schematic Member=Component R1 2K
+Added Member To Class: ClassName=Schematic Member=Component R2 2K
+Added Member To Class: ClassName=Schematic Member=Component R3 1M
+Added Member To Class: ClassName=Schematic Member=Component R4 1M
+Added Member To Class: ClassName=Schematic Member=Component R5 10K
+Added Member To Class: ClassName=Schematic Member=Component R6 100K
+Added Member To Class: ClassName=Schematic Member=Component R7 100r
+Added Member To Class: ClassName=Schematic Member=Component R8 10K
+Added Member To Class: ClassName=Schematic Member=Component R9 100r
+Added Member To Class: ClassName=Schematic Member=Component RESET Push to Reset
+Added Member To Class: ClassName=Schematic Member=Component S2 Audio Source Selector
+Added Member To Class: ClassName=Schematic Member=Component U1 MAX4466
+Added Member To Class: ClassName=Schematic Member=Component U2 3.3V Reg - Pinout wrong here but correct footprint
+Added Member To Class: ClassName=Schematic Member=Component U3 PCM1803a
+Added Member To Class: ClassName=Schematic Member=Component U4 24.576MHz OSCILLATOR

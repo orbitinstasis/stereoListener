@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=3V3 Old Footprint=TP_15TH New Footprint=Test Point THT
+Change Component Footprint: Designator=AGND TP Old Footprint=TP_15TH New Footprint=Test Point THT

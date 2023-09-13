@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=5V Pin=R1-1
+Removed Pin From Net: NetName=5V Pin=U3-5
+Added Component: Designator=L2(C0805)
+Added Pin To Net: NetName=5V Pin=L2-1
+Added Pin To Net: NetName=MICPWR Pin=C2-1
+Added Pin To Net: NetName=MICPWR Pin=L2-2
+Added Pin To Net: NetName=MICPWR Pin=R1-1
+Added Pin To Net: NetName=MICPWR Pin=U3-5
+Added Net: Name=MICPWR
+Added Member To Class: ClassName=Schematic Member=Component L2 

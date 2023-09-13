@@ -1,0 +1,2 @@
+Added Component: Designator=J?(USB-MINIB)
+Added Member To Class: ClassName=Schematic Member=Component J? Mini-USB "B" connector with 5th pin broken out.   Created new symbol breaking out 5th "ID" pin in mini/micro USB connector spec.  See: http://en.wikipedia.org/wiki/Mini_usb#Cables.  Uses same footprint as 4-pin symbol.    Also added pins to connect to mounting / shield pads if required (probably not generally needed as signals aren't shielded once they leave the connector).

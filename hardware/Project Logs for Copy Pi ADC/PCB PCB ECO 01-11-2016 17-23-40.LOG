@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DGND Pin=U2-2
+Removed Pin From Net: NetName=5V Pin=U2-3
+Change Component DesignItemId : Designator=U2 Old DesignItemId=V_REG_LDOSMD New DesignItemId=MIC52053.3V
+Change Component Comment : Designator=U2 Old Comment=3.3V_REG (replace with cheap) New Comment=MIC5205 150mA vreg 3.3V - VREG-00822 5V - VREG-00823
+Change Component Description : Designator=U2 Old Description=Voltage Regulator LDOStandard 150mA LDO voltage regulator in SOT-23 layout. Micrel part MIC5205. BP (by-pass) pin is used to lower output noise with 470pF cap. New Description=
+Change Component Library : Designator=U2 Old Library=SparkFun.IntLib New Library=SparkFun-PowerIC.IntLib
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=DGND Pin=U2-3

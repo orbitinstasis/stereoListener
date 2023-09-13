@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MAX_IN- Pin=R6-1
+Removed Pin From Net: NetName=MAX_OUT Pin=R6-2
+Change Component DesignItemId : Designator=R6 Old DesignItemId=POTENTIOMETER New DesignItemId=RPot
+Change Component Footprint: Designator=R6 Old Footprint=0603-RES New Footprint=VR5
+Added Pin To Net: NetName=MAX_OUT Pin=R6-1
+Added Pin To Net: NetName=MAX_IN- Pin=R6-2
+Added Pin To Net: NetName=MAX_OUT Pin=R6-3

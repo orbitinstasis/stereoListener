@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DOUT Pin=TP3-P$1
+Removed Pin From Net: NetName=BCK Pin=TP4-P$1
+Removed Pin From Net: NetName=LRCK Pin=TP5-P$1
+Removed Member From Class: ClassName=Schematic Member=TP3
+Removed Member From Class: ClassName=Schematic Member=TP4
+Removed Member From Class: ClassName=Schematic Member=TP5
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X3)
+Added Pin To Net: NetName=AUDIOIN_L Pin=P1-1
+Added Pin To Net: NetName=AUDIOIN_R Pin=P1-2
+Added Pin To Net: NetName=LRCK Pin=P2-1
+Added Pin To Net: NetName=BCK Pin=P2-2
+Added Pin To Net: NetName=DOUT Pin=P2-3
+Added Member To Class: ClassName=Schematic Member=Component P1 Audio TP
+Added Member To Class: ClassName=Schematic Member=Component P2 I2S TP

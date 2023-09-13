@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=3.3V Pin=3V3-P$1
+Removed Pin From Net: NetName=3.3V Pin=C6-A
+Removed Pin From Net: NetName=3.3V Pin=C7-1
+Removed Pin From Net: NetName=3.3V Pin=U2-5
+Removed Pin From Net: NetName=LRCK Pin=U4-10
+Removed Pin From Net: NetName=BCK Pin=U4-11
+Removed Pin From Net: NetName=DOUT Pin=U4-12
+Removed Pin From Net: NetName=SCK Pin=U4-15
+Change Component DesignItemId : Designator=DGND - VinGnd TIE Old DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK New DesignItemId=JUMPER-PAD-2-NC_BY_TRACE
+Change Component DesignItemId : Designator=Vin - A GND TIE Old DesignItemId=JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK New DesignItemId=JUMPER-PAD-2-NC_BY_TRACE
+Change Component Footprint: Designator=DGND - VinGnd TIE Old Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-2-NC_BY_TRACE_YES_SILK
+Change Component Footprint: Designator=Vin - A GND TIE Old Footprint=PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX New Footprint=PAD-JUMPER-2-NC_BY_TRACE_YES_SILK
+Change Component Comment : Designator=DGND - VinGnd TIE Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACE
+Change Component Comment : Designator=Vin - A GND TIE Old Comment= New Comment=JUMPER-PAD-2-NC_BY_TRACE
+Added Component: Designator=Pi3V3(PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX)
+Added Component: Designator=R17(0603-RES)
+Added Component: Designator=R18(0603-RES)
+Added Component: Designator=R19(0603-RES)
+Added Component: Designator=R20(0603-RES)
+Added Pin To Net: NetName=3.3V Pin=Pi3V3-2
+Added Pin To Net: NetName=DOUT Pin=R17-2
+Added Pin To Net: NetName=BCK Pin=R18-2
+Added Pin To Net: NetName=LRCK Pin=R19-2
+Added Pin To Net: NetName=SCK Pin=R20-2
+Added Pin To Net: NetName=Net3V3_P$1 Pin=3V3-P$1
+Added Pin To Net: NetName=Net3V3_P$1 Pin=C6-A
+Added Pin To Net: NetName=Net3V3_P$1 Pin=C7-1
+Added Pin To Net: NetName=Net3V3_P$1 Pin=Pi3V3-1
+Added Pin To Net: NetName=Net3V3_P$1 Pin=U2-5
+Added Net: Name=Net3V3_P$1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U4-12
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U4-11
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U4-10
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U4-15
+Added Net: Name=NetR20_1
+Added Member To Class: ClassName=Schematic Member=Component Pi3V3 
+Added Member To Class: ClassName=Schematic Member=Component R17 33r
+Added Member To Class: ClassName=Schematic Member=Component R18 33r
+Added Member To Class: ClassName=Schematic Member=Component R19 33r
+Added Member To Class: ClassName=Schematic Member=Component R20 33r

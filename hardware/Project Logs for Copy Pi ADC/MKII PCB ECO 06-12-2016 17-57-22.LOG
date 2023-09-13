@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=DGND Pin=BPAS-P$1
+Added Pin To Net: NetName=DGND Pin=FMT1-P$1
+Added Pin To Net: NetName=DGND Pin=OSR-P$1
+Added Pin To Net: NetName=DGND Pin=U4-8
+Added Pin To Net: NetName=DGND Pin=U4-16
+Added Pin To Net: NetName=DGND Pin=U4-18

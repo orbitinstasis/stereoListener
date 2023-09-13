@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MAX_IN- Pin=R6-1
+Added Pin To Net: NetName=MAX_IN- Pin=R6-3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R21-1
+Added Net: Name=NetR6_1

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=MAX_IN- Pin=R6-1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RESISTOR0603-RES New DesignItemId=RPot
+Change Component Footprint: Designator=R6 Old Footprint=0603-RES New Footprint=VR5
+Added Component: Designator=LINE JACK(AUDIO-JACK)
+Added Component: Designator=MIC JACK(AUDIO-JACK)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Pin To Net: NetName=AGND Pin=LINE JACK-RSH
+Added Pin To Net: NetName=AGND Pin=LINE JACK-SLEEVE
+Added Pin To Net: NetName=AGND Pin=LINE JACK-TSH
+Added Pin To Net: NetName=MIC_A Pin=MIC JACK-RING
+Added Pin To Net: NetName=AGND Pin=MIC JACK-RSH
+Added Pin To Net: NetName=AGND Pin=MIC JACK-SLEEVE
+Added Pin To Net: NetName=MIC_A Pin=MIC JACK-TIP
+Added Pin To Net: NetName=AGND Pin=MIC JACK-TSH
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=AGND Pin=R1-2
+Added Pin To Net: NetName=AGND Pin=R2-1
+Added Pin To Net: NetName=MIC_A Pin=R2-2
+Added Pin To Net: NetName=MAX_IN- Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=U3-7
+Added Pin To Net: NetName=AUDIOIN_L_LINE Pin=LINE JACK-TIP
+Added Net: Name=AUDIOIN_L_LINE
+Added Pin To Net: NetName=AUDIOIN_R_LINE Pin=LINE JACK-RING
+Added Net: Name=AUDIOIN_R_LINE
+Added Pin To Net: NetName=MAX_OUT Pin=C9-2
+Added Pin To Net: NetName=MAX_OUT Pin=R6-1
+Added Pin To Net: NetName=MAX_OUT Pin=R6-3
+Added Pin To Net: NetName=MAX_OUT Pin=U1-4
+Added Net: Name=MAX_OUT
+Added Member To Class: ClassName=Schematic Member=Component LINE JACK Stereo jack with bypass switches. Ground when NC
+Added Member To Class: ClassName=Schematic Member=Component MIC JACK Stereo jack with bypass switches. Ground when NC
+Added Member To Class: ClassName=Schematic Member=Component R1 2K
+Added Member To Class: ClassName=Schematic Member=Component R2 2K

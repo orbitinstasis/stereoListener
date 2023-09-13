@@ -1,0 +1,16 @@
+Added Component: Designator=JP13(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP14(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP15(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP16(PAD-JUMPER-2-NO_NO_SILK)
+Added Pin To Net: NetName=AGND Pin=JP13-1
+Added Pin To Net: NetName=MICGND Pin=JP13-2
+Added Pin To Net: NetName=AGND Pin=JP14-1
+Added Pin To Net: NetName=MICGND Pin=JP14-2
+Added Pin To Net: NetName=AGND Pin=JP15-1
+Added Pin To Net: NetName=MICGND Pin=JP15-2
+Added Pin To Net: NetName=AGND Pin=JP16-1
+Added Pin To Net: NetName=MICGND Pin=JP16-2
+Added Member To Class: ClassName=Schematic Member=Component JP13 
+Added Member To Class: ClassName=Schematic Member=Component JP14 
+Added Member To Class: ClassName=Schematic Member=Component JP15 
+Added Member To Class: ClassName=Schematic Member=Component JP16 

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 03:23:39 On 10/12/2016
+
+Output: Copy of Electrical Rules Check
+Type  : ERC
+From  : Project [Copy Pi ADC.PrjPcb]
+   Generated File[Copy Pi ADC.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 03:23:40 On 10/12/2016

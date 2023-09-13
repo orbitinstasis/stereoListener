@@ -1,0 +1,43 @@
+Change Component Comment : Designator=C12 Old Comment=1uF New Comment=4.7uF
+Change Component Comment : Designator=R1 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=C13 Old Comment=100pF New Comment=68pF
+Change Component Comment : Designator=JMP2 Old Comment=Bridge and disconnect 3v3 reg for pi 3v3 New Comment=Bridge this and disconnect jmp3 for pi 3v3
+Change Component Comment : Designator=JMP3 Old Comment=disconnect this and connect jmp3 for pi 3v3 New Comment=Bridge this and disconnect jmp2 for regulated 3v3
+Change Component Designator: OldDesignator=JMP1 NewDesignator=JP1
+Change Component Designator: OldDesignator=JMP2 NewDesignator=JP4
+Change Component Designator: OldDesignator=JMP3 NewDesignator=JP3
+Change Component Designator: OldDesignator=JMP4 NewDesignator=JP11
+Change Component Designator: OldDesignator=Pi5V NewDesignator=JP2
+Added Component: Designator=JP5(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP6(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP7(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP8(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP9(PAD-JUMPER-2-NO_NO_SILK)
+Added Component: Designator=JP10(PAD-JUMPER-2-NO_NO_SILK)
+Added Pin To Net: NetName=AGND Pin=JP5-1
+Added Pin To Net: NetName=VIN_GND Pin=JP5-2
+Added Pin To Net: NetName=AGND Pin=JP6-1
+Added Pin To Net: NetName=DGND Pin=JP6-2
+Added Pin To Net: NetName=AGND Pin=JP7-1
+Added Pin To Net: NetName=DGND Pin=JP7-2
+Added Pin To Net: NetName=AGND Pin=JP8-1
+Added Pin To Net: NetName=VIN_GND Pin=JP8-2
+Added Pin To Net: NetName=AGND Pin=JP9-1
+Added Pin To Net: NetName=DGND Pin=JP9-2
+Added Pin To Net: NetName=AGND Pin=JP10-1
+Added Pin To Net: NetName=DGND Pin=JP10-2
+Change Net Name : Old Net Name=NetJMP1_1 New Net Name=NetJP1_1
+Change Net Name : Old Net Name=NetJMP1_3 New Net Name=NetJP1_3
+Change Net Name : Old Net Name=NetJMP3_1 New Net Name=NetJP3_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Schematic Member=Component JP5 
+Added Member To Class: ClassName=Schematic Member=Component JP6 
+Added Member To Class: ClassName=Schematic Member=Component JP7 
+Added Member To Class: ClassName=Schematic Member=Component JP8 
+Added Member To Class: ClassName=Schematic Member=Component JP9 
+Added Member To Class: ClassName=Schematic Member=Component JP10 

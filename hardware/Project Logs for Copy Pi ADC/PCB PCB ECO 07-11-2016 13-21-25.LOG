@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VIN_GND Pin=Vin-1
+Removed Pin From Net: NetName=V_IN Pin=Vin-2
+Change Component DesignItemId : Designator=Vin Old DesignItemId=Header 2 New DesignItemId=TEST-POINT3X4
+Change Component Footprint: Designator=Vin Old Footprint=1X02 New Footprint=PAD.03X.04
+Change Component Comment : Designator=Vin Old Comment=5V source New Comment=
+Added Pin To Net: NetName=V_IN Pin=Vin-P$1

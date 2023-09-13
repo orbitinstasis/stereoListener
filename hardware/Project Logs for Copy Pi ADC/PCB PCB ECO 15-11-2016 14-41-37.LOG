@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=V_REG_LDOSMD New DesignItemId=TPS793475DBVR
+Change Component Footprint: Designator=U1 Old Footprint=SOT23-5 New Footprint=TI-DBV5_N

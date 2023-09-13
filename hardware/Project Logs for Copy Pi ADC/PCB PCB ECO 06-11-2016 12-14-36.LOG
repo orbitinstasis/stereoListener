@@ -1,0 +1,4 @@
+Added Component: Designator=JP?(PAD-JUMPER-2-NC_BY_PASTE_NO_SILK)
+Added Component: Designator=JP?(PAD-JUMPER-2-NC_BY_TRACE_NO_SILK)
+Added Member To Class: ClassName=Schematic Member=Component JP? JUMPER-PAD-2-NC_BY_PASTENO-SILK
+Added Member To Class: ClassName=Schematic Member=Component JP? JUMPER-PAD-2-NC_BY_TRACENO_SILK

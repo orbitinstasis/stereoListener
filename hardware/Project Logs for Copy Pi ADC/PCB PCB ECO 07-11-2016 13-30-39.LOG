@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=LINE IN Old DesignItemId=AUDIO-JACK2KIT New DesignItemId=AUDIO-JACK2PTH
+Change Component Footprint: Designator=LINE IN Old Footprint=AUDIO-JACK-KIT New Footprint=AUDIO-JACK
+Change Component Comment : Designator=LINE IN Old Comment=Stereo audio jack with bypass switches. SMT version used on LilyPad MP3 board. New Comment=Stereo jack

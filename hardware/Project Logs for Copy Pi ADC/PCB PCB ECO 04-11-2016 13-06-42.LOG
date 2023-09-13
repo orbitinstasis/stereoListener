@@ -1,0 +1,4 @@
+Added Component: Designator=MIC(PIN2)
+Added Pin To Net: NetName=AGND Pin=MIC-1
+Added Pin To Net: NetName=MIC_A Pin=MIC-2
+Added Member To Class: ClassName=Schematic Member=Component MIC Optional

@@ -1,18 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Copy Pi ADC.PrjPcb]
-   Generated File[PCB.GTL]
-   Generated File[PCB.GBL]
-   Generated File[PCB.GTO]
-   Generated File[PCB.GTS]
-   Generated File[PCB.GBS]
-   Generated File[PCB.GBO]
-   Generated File[PCB.GKO]
-   Generated File[PCB.EXTREP]
-   Generated File[PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Copy Pi ADC.PrjPcb]
+   Generated File[MKII.TXT]
+   Generated File[MKII.LDP]
+   Generated File[MKII.DRR]
 
 
-Files Generated   : 9
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 22:12:41 On 08/11/2016
+Finished Output Generation At 22:47:32 On 04/01/2017

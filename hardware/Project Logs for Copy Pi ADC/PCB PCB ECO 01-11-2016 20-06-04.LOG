@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VINL_B Pin=TP1-P$1
+Removed Pin From Net: NetName=VINR_B Pin=TP2-P$1
+Change Component Designator: OldDesignator=RESET NewDesignator=S1
+Added Pin To Net: NetName=AUDIOIN_L Pin=TP1-P$1
+Added Pin To Net: NetName=AUDIOIN_R Pin=TP2-P$1

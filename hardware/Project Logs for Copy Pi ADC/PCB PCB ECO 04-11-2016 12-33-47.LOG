@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=AGND Pin=J1-6
+Removed Pin From Net: NetName=5V Pin=L1-2
+Removed Pin From Net: NetName=AGND Pin=USB Pwr-GND
+Removed Pin From Net: NetName=V_IN Pin=USB Pwr-VBUS
+Change Component DesignItemId : Designator=USB Pwr Old DesignItemId=USBSMD New DesignItemId=MicroUSB-HRS-ZX62-AB-5PA
+Change Component Footprint: Designator=USB Pwr Old Footprint=USB-MINIB New Footprint=MicroUSB-HRS1
+Added Component: Designator=A - D GND TIE(PAD-JUMPER-2-NC_BY_TRACE_YES_SILK)
+Added Component: Designator=C19(EIA3216)
+Added Component: Designator=C20(0603-CAP)
+Added Component: Designator=C21(0603-CAP)
+Added Component: Designator=C22(0603-CAP)
+Added Component: Designator=Reg - No Reg(PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX)
+Added Component: Designator=U5(SOT23-5)
+Added Component: Designator=Vin - A GND TIE(PAD-JUMPER-2-NC_BY_TRACE_YES_SILK)
+Added Component: Designator=Vin_GND(PAD.03X.03)
+Added Pin To Net: NetName=AGND Pin=A - D GND TIE-1
+Added Pin To Net: NetName=DGND Pin=A - D GND TIE-2
+Added Pin To Net: NetName=5V Pin=C19-A
+Added Pin To Net: NetName=AGND Pin=C19-C
+Added Pin To Net: NetName=V_IN Pin=C20-1
+Added Pin To Net: NetName=AGND Pin=C22-2
+Added Pin To Net: NetName=5V Pin=Reg - No Reg-1
+Added Pin To Net: NetName=5V Pin=U5-5
+Added Pin To Net: NetName=V_IN Pin=USB Pwr-1
+Added Pin To Net: NetName=AGND Pin=Vin - A GND TIE-1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=L1-2
+Added Pin To Net: NetName=NetC21_1 Pin=Reg - No Reg-2
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=U5-4
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetReg - No Reg_3 Pin=Reg - No Reg-3
+Added Pin To Net: NetName=NetReg - No Reg_3 Pin=U5-1
+Added Pin To Net: NetName=NetReg - No Reg_3 Pin=U5-3
+Added Net: Name=NetReg - No Reg_3
+Added Pin To Net: NetName=VIN_GND Pin=C20-2
+Added Pin To Net: NetName=VIN_GND Pin=C21-2
+Added Pin To Net: NetName=VIN_GND Pin=J1-6
+Added Pin To Net: NetName=VIN_GND Pin=U5-2
+Added Pin To Net: NetName=VIN_GND Pin=USB Pwr-5
+Added Pin To Net: NetName=VIN_GND Pin=Vin - A GND TIE-2
+Added Pin To Net: NetName=VIN_GND Pin=Vin_GND-P$1
+Added Net: Name=VIN_GND
+Added Member To Class: ClassName=Schematic Member=Component A - D GND TIE JUMPER-PAD-2-NC_BY_TRACE
+Added Member To Class: ClassName=Schematic Member=Component C19 10uF
+Added Member To Class: ClassName=Schematic Member=Component C20 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component C21 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C22 0.01uF
+Added Member To Class: ClassName=Schematic Member=Component Reg - No Reg 
+Added Member To Class: ClassName=Schematic Member=Component U5 Optional 4.75V Reg
+Added Member To Class: ClassName=Schematic Member=Component Vin - A GND TIE JUMPER-PAD-2-NC_BY_TRACE
+Added Member To Class: ClassName=Schematic Member=Component Vin_GND TEST-POINT3

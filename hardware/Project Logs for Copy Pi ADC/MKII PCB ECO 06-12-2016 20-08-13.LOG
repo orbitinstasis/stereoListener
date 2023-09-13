@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=BPAS Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=FMT0 Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=FMT1 Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=OSR Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component DesignItemId : Designator=PDWN Old DesignItemId=TEST-POINT3X5 New DesignItemId=TEST-POINT3
+Change Component Footprint: Designator=BPAS Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=FMT0 Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=FMT1 Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=OSR Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
+Change Component Footprint: Designator=PDWN Old Footprint=PAD.03X.05 New Footprint=PAD.03X.03
